@@ -25,4 +25,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: eventos-seguranca
-        path: eventos_seguranca.csv
+        path: ./eventos_seguranca.csv
