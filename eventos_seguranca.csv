@@ -1,0 +1,4 @@
+Data e Hora,Evento
+2025-05-31 14:32:56,Failed password for user admin
+2025-05-31 14:32:56,authentication failure from IP 192.168.1.1
+2025-05-31 14:32:56,Failed password from IP 10.0.0.1
